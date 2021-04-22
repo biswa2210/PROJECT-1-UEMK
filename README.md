@@ -14,6 +14,8 @@
 I have a handwritten recognizer for recognising both handwritten text and OCR. Python-tesseract is used to recognize and read the text. In handwriting recognition (HWR) the device interprets the user's handwritten characters or words into a format that the computer understands (e.g., Unicode text). The input can be from paper documents, images, touch-screens and other devices. There are many levels of HWR, starting from the recognition of simplified individual characters to the recognition of whole words and sentences of cursive handwriting. Character recognition often involves scanning a form or document. This means the individual characters contained in the scanned image will need to be extracted. After the extraction of individual characters occurs, a recognition engine is used to identify the corresponding character. OCR systems consist of following major stages : • Classification • Post-processing • Feature Extraction. This Handwriting recognition is used for numerous applications such as : reading postal addresses, bank check amounts, and forms. Furthermore, OCR plays an important role for digital libraries, allowing the entry of image textual information into computers by digitization, image restoration, and recognition methods.
 
 :point_right: [click here to read Project1 Research Paper](https://github.com/biswa2210/PROJECT-1-UEMK/blob/master/3rdSemProject1ResearchPaper.pdf)
+:point_right: [click here to read Project1 PowerPoint Presentation](https://drive.google.com/file/d/16rftW-uNvv6KIOxdEnpGsC0js1hqR0Fi/view)
+:point_right: [click here to read Project1 Demo Video](https://drive.google.com/file/d/1tpUvWbsJbWVD_u-boNK_VNQJz8GSQ5fi/view)
 ## Purpose :point_down:
 
 ## Use :point_down:
