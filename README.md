@@ -12,7 +12,7 @@
 
 ## About :point_down: 
 
-## LINK of full project: :point_right: [click here to read Project Research Paper](https://github.com/biswa2210/PROJECT-1-UEMK/blob/master/3rdSemProject1ResearchPaper.pdf)
+## LINK of full project: :point_right: [click here to read Project1 Research Paper](https://github.com/biswa2210/PROJECT-1-UEMK/blob/master/3rdSemProject1ResearchPaper.pdf)
 ## Purpose :point_down:
 
 ## Use :point_down:
