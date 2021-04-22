@@ -40,12 +40,12 @@ I have a handwritten recognizer for recognising both handwritten text and OCR. P
  
 ## Screenshots :point_down: 
 <div align="center">
- <a href="s1.PNG"><img src="s1.PNG" width="400" height= "250"></a> <a href="s2.PNG"><img src="s2.PNG" width="400" height= "250"></a>
+ <a href="hr1.PNG"><img src="hr1.PNG" width="400" height= "250"></a> <a href="hr2.PNG"><img src="hr2.PNG" width="400" height= "250"></a>
 
-<a href="s3.PNG"><img src="s3.PNG" width="400" height= "250"></a> <a href="s4.PNG"><img src="s4.PNG" width="400" height= "250"></a>
+<a href="hr3.PNG"><img src="hr3.PNG" width="400" height= "250"></a> <a href="hr4.PNG"><img src="hr4.PNG" width="400" height= "250"></a>
 
-<a href="s5.PNG"><img src="s5.PNG" width="400" height= "250"></a> <a href="s6.PNG"><img src="s6.PNG" width="400" height= "250"></a>
+<a href="hr5.PNG"><img src="hr5.PNG" width="400" height= "250"></a> <a href="hr6.PNG"><img src="hr6.PNG" width="400" height= "250"></a>
 
-<a href="s16.PNG"><img src="s16.PNG" width="400" height= "250"></a>
+<a href="hr7.PNG"><img src="hr7.PNG" width="400" height= "250"></a> <a href="hr8.PNG"><img src="hr8.PNG" width="400" height= "250"></a>
 </div>
 
