@@ -17,7 +17,7 @@ I have a handwritten recognizer for recognising both handwritten text and OCR. P
 :point_right: [click here to see Project1 PowerPoint Presentation](https://drive.google.com/file/d/16rftW-uNvv6KIOxdEnpGsC0js1hqR0Fi/view)<br>
 :point_right: [click here to view or download Project1 Demo Video](https://drive.google.com/file/d/1tpUvWbsJbWVD_u-boNK_VNQJz8GSQ5fi/view)
 ## Purpose :point_down:
-
+The goal of this project is to create a model that will be able to recognize and determine the handwritten digits from its image by using the concepts of Convolution Neural Network and Optical Character recognition with tesseract-OCR. Though the goal is to create a model which can recognize the digits, it can be extended to letters and an individual’s handwriting. The major goal of the proposed system is understanding Convolutional Neural Network, and applying it to the handwritten recognition system. The another goal of this project is that make a simple user friendly graphical user interface to handle recognizing handwritten digits and OCR, create a developers section in graphical user interface where the all group members details
 ## Use :point_down:
 
 ## Applications and Future Scopes:point_down:
