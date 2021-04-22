@@ -12,7 +12,7 @@
 
 ## About :point_down: 
 
-## LINK of full project: :point_right:
+## LINK of full project: :point_right: <a href="https://github.com/biswa2210/PROJECT-1-UEMK/raw/master/" play>Click here to download</a>
 ## Purpose :point_down:
 
 ## Use :point_down:
