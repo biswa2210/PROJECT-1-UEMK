@@ -124,6 +124,7 @@ Python Tesseract is basically a Optical Character Recognition (OCR) tool in for 
 
 <a href="hr7.PNG"><img src="hr7.PNG" width="400" height= "250"></a> <a href="hr8.PNG"><img src="hr8.PNG" width="400" height= "250"></a>
 </div>
+
 ## Block Diagram of Project :point_down:
 <div align="center">
 <a href="bl.PNG"><img src="bl.PNG" width="700" height= "350"></a>
