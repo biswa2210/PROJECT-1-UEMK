@@ -116,7 +116,7 @@ I have made this using python3. Now let me come to the OCR part of this project.
 Python Tesseract is basically a Optical Character Recognition (OCR) tool in for python . It will recognise or read the text embedded in images. Here it is used as a python script. It is used to load  an image and binarise it then pass it through the tesseract ocr system. Python tesseract will print the recognise txt instead of writing it to a file. At first I had to install the tesseract software in laptop. Then I gave the installation location path to the pytesseract module in python. Then it easily accessed the location and recognise PDF or IMAGES and convert it into text format and save it at our desired file location. Here file location is our project location and the file name is as output.txt. After Recognising hand written characters through OCR is pronounciated by python TEXT TO SPEECH module and translated into HINDI using google trans module in python. 
 ## Screenshots :point_down: 
 <div align="center">
- <a href="hr1.PNG"><img src="hr1.PNG" width="400" height= "250"></a> <a href="hr2.PNG"><img src="hr2.PNG" width="400" height= "250"></a>
+<a href="hr1.PNG"><img src="hr1.PNG" width="400" height= "250"></a> <a href="hr2.PNG"><img src="hr2.PNG" width="400" height= "250"></a>
 
 <a href="hr3.PNG"><img src="hr3.PNG" width="400" height= "250"></a> <a href="hr4.PNG"><img src="hr4.PNG" width="400" height= "250"></a>
 
@@ -124,4 +124,7 @@ Python Tesseract is basically a Optical Character Recognition (OCR) tool in for 
 
 <a href="hr7.PNG"><img src="hr7.PNG" width="400" height= "250"></a> <a href="hr8.PNG"><img src="hr8.PNG" width="400" height= "250"></a>
 </div>
-
+## Block Diagram of Project :point_down:
+<div align="center">
+<a href="bl.PNG"><img src="bl.PNG" width="700" height= "350"></a>
+</div>
