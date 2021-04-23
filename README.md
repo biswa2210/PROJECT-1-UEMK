@@ -1,6 +1,6 @@
 # PROJECT-1-UEMK-HANDWRITING RECOGNIZER :star_struck:
 
-[![Generic badge](https://img.shields.io/badge/advance-Python3-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/deep-learning-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/artificial-neural%20retwork-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/convolutional%20-neural%20network-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/MNIST-dataset-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Graphical%20-UI-brightgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Tesseract-OCR-blue)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Handwriting%20-Recognizer-violet)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-Python3-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/deep-learning-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/artificial-neural%20retwork-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/convolutional%20-neural%20network-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/MNIST-dataset-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Graphical%20-UI-brightgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Tesseract-OCR-blue)](https://shields.io/)
 
 ***This new Web application is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
@@ -38,7 +38,77 @@ The goal of this project is to create a model that will be able to recognize and
 • Retrieval of documents in presence of OCR errors and scope for hybrid approaches.<br>
 ## Folder Structure :point_down:
 ```bash
-
+PROJECT-1-UEMK
+     ├── .idea
+     |      ├── inspectionProfiles
+     |      |          ├── Project_Default.xml
+     |      |          └── profiles_settings.xml
+     |      ├── .gitignore
+     |      ├── HAND WRITTEN DIGIT RECOGNITION.iml
+     |      ├── misc.xml
+     |      └── modules.xml
+     ├── NeedSoftware
+     |      └── tesseract-ocr-w64-setup-v5.0.0-alpha.20200328.exe
+     ├── Test Images
+     |      ├── image1.jpg
+     |      ├── image1output.jpg
+     |      ├── image2.jpg
+     |      ├── image2output.jpg
+     |      ├── image3.jpg
+     |      ├── image3output.jpg
+     |      ├── image4.jpg
+     |      ├── image4output.jpg
+     |      ├── image5.jpg
+     |      └── image5output.jpg 
+     ├── Test_Videos
+     |      ├── outout.avi
+     |      ├── video1.mp4
+     |      ├── video2.mp4
+     |      ├── video3.mp4
+     |      ├── video4.mp4
+     |      └── video5.mp4
+     ├── _pycache_
+     |      ├── developers.cpython-36.pyc
+     |      ├── gui_interface_cpython-36.pyc
+     |      ├── ocr_gui.cpython-36.pyc
+     |      ├── ocrecog.cpython-36.pyc
+     |      ├── recognizefromvideo.cpython-36.pyc
+     |      ├── recognizer_gui.cpython-36.pyc
+     |      └── recognizer.cpython-36.pyc
+     ├── ocr
+     |      ├── img1.jpg
+     |      ├── img2.jpg
+     |      ├── img3.jpg
+     |      └── output.txt
+     ├── Display Mnist.py
+     ├── MNIST_CNN.model
+     ├── MNIST_CNN.py
+     ├── developers.py
+     ├── developerswalp.jpg
+     ├── gui_interface.py
+     ├── handwrittenDigitRecognitionWallpaper.jpg
+     ├── mini_developerswalp.jpg
+     ├── mini_handwrittenDigitRecognitionWallpaper.jpg
+     ├── mini_img.jpg
+     ├── mini_img1.jpg
+     ├── mini_img2.jpg
+     ├── mini_img3.jpg
+     ├── mini_img4.jpg
+     ├── mini_img5.jpg
+     ├── ocr.jpg
+     ├── ocr_gui.py
+     ├── ocrecog.py
+     ├── ocrwallpaper.jpg
+     ├── pok.ico
+     ├── pok.jpeg
+     ├── pok.wav
+     ├── pok2.wav
+     ├── pok2.ico
+     ├── pok3.ico
+     ├── recognizefromvideo.py
+     ├── recognizer.py
+     ├── recognizer_gui.py
+     └── rootwallpaper.jpg 
 ```                       
 
 ## Making :point_down:
