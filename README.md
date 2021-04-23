@@ -1,6 +1,6 @@
 # PROJECT-1-UEMK-HANDWRITING RECOGNIZER :star_struck:
 
-[![Generic badge](https://img.shields.io/badge/advance-Python3-yellowgreen)](https://shields.io/) 
+[![Generic badge](https://img.shields.io/badge/advance-Python3-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-Python3-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-Python3-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-Python3-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-Python3-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-Python3-yellowgreen)](https://shields.io/)
 
 ***This new Web application is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
