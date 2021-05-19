@@ -21,12 +21,6 @@
 :point_right: [click here to see Project1 PowerPoint Presentation](https://drive.google.com/file/d/16rftW-uNvv6KIOxdEnpGsC0js1hqR0Fi/view)<br>
 :point_right: [click here to view or download Project1 Demo Video](https://drive.google.com/file/d/1tpUvWbsJbWVD_u-boNK_VNQJz8GSQ5fi/view)**
 
-<figure class="video container">
-   <video controls="True" allowfullscreen="True" poster="pics/hr1.PNG">
-      <src="SAMPLE OUTPUT/3SEM PROJECT.mp4" type=".mp4">
-   </video>
-</figure>
-
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="pics/hr1.PNG">
     <source src="SAMPLE OUTPUT/3SEM PROJECT.mp4" type="video/mp4">
