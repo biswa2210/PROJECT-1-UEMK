@@ -4,6 +4,11 @@ from PIL import Image,ImageTk
 from recognizefromvideo import recognize_video,browsevideo
 from recognizer import recognize_img,browseimg
 import random
+'''
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+'''
 from winsound import *
 poklist=["pok.wav","pok2.wav"]
 clicked=lambda : PlaySound(random.choice(poklist),SND_FILENAME)
