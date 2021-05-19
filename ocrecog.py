@@ -5,7 +5,11 @@ import pytesseract
 
 # adds image processing capabilities
 from PIL import Image
-
+"""
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+"""
 # converts the text to speech
 import pyttsx3
 from tkinter import filedialog
