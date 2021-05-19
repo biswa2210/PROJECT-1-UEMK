@@ -3,6 +3,11 @@ from keras.models  import load_model
 import numpy as np
 import cv2
 from tkinter import filedialog
+'''
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+'''
 #Browsing Only Image Files(.jpg format)
 def browseimg():
     filename =filedialog.askopenfilename(filetypes=(("jpg files","*.jpg"),("All files","*.*")))
