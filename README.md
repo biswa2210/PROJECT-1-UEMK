@@ -24,6 +24,7 @@
 </figure>
 
 
+<a href="SAMPLE OUTPUT/3SEM PROJECT.mp4" title="Handwriting Recognizer"><img src="pics/hr1.PNG" alt="Alternate Text" /></a>
 
 
 ## Working Principle :point_down:
