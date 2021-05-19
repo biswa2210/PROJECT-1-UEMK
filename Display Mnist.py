@@ -1,7 +1,12 @@
 import matplotlib
 import matplotlib.pyplot as plt
 #display mnist data digits
-"""from sklearn.datasets import fetch_openml
+"""
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+"""
+from sklearn.datasets import fetch_openml
 mnist=fetch_openml('mnist_784')
 print(mnist)
 x,y=mnist['data'],mnist['target']
