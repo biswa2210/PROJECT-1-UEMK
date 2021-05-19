@@ -22,11 +22,16 @@
 :point_right: [click here to view or download Project1 Demo Video](https://drive.google.com/file/d/1tpUvWbsJbWVD_u-boNK_VNQJz8GSQ5fi/view)**
 
 <figure class="video container">
-   <video controls="True" allow full screen="True" poster="pics/hr1.PNG">
+   <video controls="True" allowfullscreen="True" poster="pics/hr1.PNG">
       <src="SAMPLE OUTPUT/3SEM PROJECT.mp4" type=".mp4">
    </video>
 </figure>
 
+<figure class="video container">
+   <iframe src="https://drive.google.com/file/d/1tpUvWbsJbWVD_u-boNK_VNQJz8GSQ5fi/view" frameholder="0" allowfullscreen="True">
+   </iframe>
+   </figure>
+   
 <details>
    <summary>"To read about Working Principle click here"</summary>
  
@@ -153,19 +158,19 @@ PROJECT-1-UEMK
 ## Screenshots :point_down: 
 
 <div align="center">
-<a href="pics/hr1.PNG"><img src="pics/hr1.PNG" width="400" height= "250"></a> <a href="pics/hr2.PNG"><img src="pics/hr2.PNG" width="400" height= "250"></a>
+<a href="pics/hr1.PNG"><img src="pics/hr1.PNG" width="400" height= "300"></a> <a href="pics/hr2.PNG"><img src="pics/hr2.PNG" width="400" height= "300"></a>
 
-<a href="pics/hr3.PNG"><img src="pics/hr3.PNG" width="400" height= "250"></a> <a href="pics/hr4.PNG"><img src="pics/hr4.PNG" width="400" height= "250"></a>
+<a href="pics/hr3.PNG"><img src="pics/hr3.PNG" width="400" height= "300"></a> <a href="pics/hr4.PNG"><img src="pics/hr4.PNG" width="400" height= "300"></a>
 
-<a href="pics/hr5.PNG"><img src="pics/hr5.PNG" width="400" height= "250"></a> <a href="pics/hr6.PNG"><img src="pics/hr6.PNG" width="400" height= "250"></a>
+<a href="pics/hr5.PNG"><img src="pics/hr5.PNG" width="400" height= "300"></a> <a href="pics/hr6.PNG"><img src="pics/hr6.PNG" width="400" height= "300"></a>
 
-<a href="pics/hr7.PNG"><img src="pics/hr7.PNG" width="400" height= "250"></a> <a href="pics/hr8.PNG"><img src="pics/hr8.PNG" width="400" height= "250"></a>
+<a href="pics/hr7.PNG"><img src="pics/hr7.PNG" width="400" height= "300"></a> <a href="pics/hr8.PNG"><img src="pics/hr8.PNG" width="400" height= "300"></a>
 </div>
 
 ## Block Diagram of Project :point_down:
 
 <div align="center">
-<a href="pics/bl.PNG"><img src="pics/bl.PNG" width="700" height= "350"></a>
+<a href="pics/bl.PNG"><img src="pics/bl.PNG" width="800" height= "350"></a>
 </div>
 
 
