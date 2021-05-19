@@ -3,6 +3,11 @@ from tkinter import *
 from PIL import Image,ImageTk
 import random
 from winsound import  *
+"""
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+"""
 poklist=["pok.wav","pok2.wav"]
 clicked=lambda:PlaySound(random.choice(poklist),SND_FILENAME)
 from ocrecog import analyze_img
