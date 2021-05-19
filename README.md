@@ -27,15 +27,13 @@
    </video>
 </figure>
 
-<figure class="video container">
-   <iframe src="https://drive.google.com/file/d/1tpUvWbsJbWVD_u-boNK_VNQJz8GSQ5fi/view" frameholder="0" allowfullscreen="True">
-   </iframe>
-   </figure>
-   
-   <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="pics/hr1.PNG">
+    <source src="SAMPLE OUTPUT/3SEM PROJECT.mp4" type="video/mp4">
+  </video>
 </figure>
-   
+
+
 <details>
    <summary>"To read about Working Principle click here"</summary>
  
