@@ -4,6 +4,11 @@ import numpy as np
 import cv2
 from tkinter import filedialog
 #Browsing Only Video Files(.mp4 format)
+'''
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+'''
 def browsevideo():
     filename =filedialog.askopenfilename(filetypes=(("mp4 files","*.mp4"),("All files","*.*")))
     return filename
