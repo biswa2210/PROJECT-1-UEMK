@@ -19,7 +19,7 @@
 
 <figure class="video container">
    <video controls="True" allow full screen="True" poster="pics/hr1.PNG">
-      <source src="SAMPLE OUTPUT/3SEM PROJECT.mp4" type=".mp4">
+      <src="SAMPLE OUTPUT/3SEM PROJECT.mp4" type=".mp4">
    </video>
 </figure>
 
