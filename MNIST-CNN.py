@@ -1,6 +1,11 @@
 import tensorflow as tf
 import numpy as np
 from keras.datasets import mnist
+"""
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+"""
 
 
 (x_train, y_train), (x_test, y_test) = mnist.load_data()
